@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/terry/" . "Desktop/")
+ ("/Users/terry/Project/learn-clj/src/" . "learn_clj/")
+ ("/Users/terry/Project/learn-clj/" . "src/")
+ ("/Users/terry/Project/" . "learn-clj/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/terry/Project/learn-clj/src/learn_clj/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/terry/Project/learn-clj/src/learn_clj/" (21378 62509 0 0) "core.clj" "../" "./")
+
+ ("/Users/terry/Project/learn-clj/" (21378 62529 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".gitignore" "../" "./")
+
+ ("/Users/terry/Desktop/" (21373 33501 0 0) "摸透电贝司.pdf" "仅限此群，不得外传！MicA求婚_making8 of.mp4" "readinglua.pdf" "photo.zip" "linux-mm-io.markdown" "Game Resource/" "Camera Catalogs/" "adt-bundle-linux-x86_64-20140321.zip" "aaa.jpg" "14318565.tgz" "101_0204/" "1.jpg" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/terry/Project/learn-clj/src/" (21378 62296 0 0) "learn_clj/" "../" "./")
+
+ ("/Users/terry/Project/" (21378 62296 0 0) "Thulix/" "tengine/" "tcprstat/" "shinken/" "pr/" "phalanx/" "persia/" "node_modules/" "node-kafka.tgz" "nginx-push-stream-module/" "maya/" "lua-5.2.2/" "learn-clj/" "godit/" "go/" "franz-kafka/" "emacs/" "docker/" "awesome/" ".DS_Store" "../" "./")
+
+ ("/Users/" (21096 30482 0 0) "terry/" "Shared/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/terry/" (21378 62305 0 0) "tmp/" "Sites/" "Silkscreen/" "sign" "Servers/" "Public/" "ps" "Project/" "Pictures/" "Music/" "Movies/" "Library/" "guitar/" "goagent/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" ".zshrc" ".zhistory" ".zcompdump" ".Xcode/" ".wapi/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".subversion/" ".ssh/" ".sqlite_history" ".scala_history" ".rnd" ".recently-used" ".profile" ".npm/" ".node-gyp/" ".mplayer/" ".mime.types" ".mailcap" ".m2/" ".lesshst" ".lein/" ".jwcpp/" ".GuitarPro/" ".gitignore" ".gitconfig" ".ghc/" ".emacs.d/" ".DS_Store" ".dropbox-master/" ".dropbox/" ".cups/" ".cordova/" ".config/" ".coffee_history" ".cocoapods/" ".CFUserTextEncoding" ".bzr.log" ".bashrc" ".bash_history" ".atom/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
