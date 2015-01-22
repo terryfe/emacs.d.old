@@ -1,21 +1,29 @@
 
 ;; ----- smex-history -----
 (
- load-theme
+ google-set-c-style
+ compile
+ shell
+ semantic-mode
+ package-list-packages
  package-install
- set-mark-command
- cd
- df
- 5x5
- all
+ load-theme
 )
 
 ;; ----- smex-data -----
 (
- (load-theme . 6)
+ (load-theme . 7)
  (clojure-mode . 1)
  (set-mark-command . 1)
  (cider-jack-in . 3)
  (cider-ping . 1)
- (package-install . 2)
+ (package-install . 3)
+ (apropos . 1)
+ (package-list-packages . 1)
+ (semantic-mode . 3)
+ (semantic-gcc-setup . 1)
+ (compile . 7)
+ (shell . 1)
+ (semantic-ia-fast-jump . 1)
+ (google-set-c-style . 2)
 )

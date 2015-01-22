@@ -1,6 +1,4 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/terry/Codes/riemann/riemann.config" . 352)
- ("/home/terry/Codes/riemann/src/riemann/streams.clj" . 5843)
- ("/home/terry/Projects/clj-dist/project.clj" . 183)
- ("/home/terry/Projects/clj-dist/src/clj_dist/core.clj" . 172)
- ("/home/terry/Projects/learn-clj/src/learn_clj/core.clj" . 21))
+(("/home/terry/Codes/docker/docker/docker.go" . 646)
+ ("/home/terry/Codes/llvm/tools/clang/lib/AST/ASTConsumer.cpp" . 475)
+ ("/home/terry/temp/a.cpp" . 166))
